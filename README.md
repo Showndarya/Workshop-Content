@@ -1,0 +1,2 @@
+# GlobalAIBootcamp
+Datasets fro GlobalAIBootcamp
