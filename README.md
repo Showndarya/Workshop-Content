@@ -1,4 +1,4 @@
-# Automated ML Iin Azure - Global AI Bootcamp
+# Automated ML in Azure - Global AI Bootcamp
 Datasets for GlobalAIBootcamp
 
 
