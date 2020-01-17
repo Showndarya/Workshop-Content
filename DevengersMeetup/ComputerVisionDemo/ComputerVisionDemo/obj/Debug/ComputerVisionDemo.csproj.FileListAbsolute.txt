@@ -1,0 +1,12 @@
+C:\Users\shmadhav\source\repos\ComputerVisionDemo\ComputerVisionDemo\bin\Debug\ComputerVisionDemo.exe.config
+C:\Users\shmadhav\source\repos\ComputerVisionDemo\ComputerVisionDemo\bin\Debug\ComputerVisionDemo.exe
+C:\Users\shmadhav\source\repos\ComputerVisionDemo\ComputerVisionDemo\bin\Debug\ComputerVisionDemo.pdb
+C:\Users\shmadhav\source\repos\ComputerVisionDemo\ComputerVisionDemo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shmadhav\source\repos\ComputerVisionDemo\ComputerVisionDemo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\shmadhav\source\repos\ComputerVisionDemo\ComputerVisionDemo\obj\Debug\ComputerVisionDemo.csprojAssemblyReference.cache
+C:\Users\shmadhav\source\repos\ComputerVisionDemo\ComputerVisionDemo\obj\Debug\ComputerVisionDemo.Form1.resources
+C:\Users\shmadhav\source\repos\ComputerVisionDemo\ComputerVisionDemo\obj\Debug\ComputerVisionDemo.Properties.Resources.resources
+C:\Users\shmadhav\source\repos\ComputerVisionDemo\ComputerVisionDemo\obj\Debug\ComputerVisionDemo.csproj.GenerateResource.cache
+C:\Users\shmadhav\source\repos\ComputerVisionDemo\ComputerVisionDemo\obj\Debug\ComputerVisionDemo.csproj.CopyComplete
+C:\Users\shmadhav\source\repos\ComputerVisionDemo\ComputerVisionDemo\obj\Debug\ComputerVisionDemo.exe
+C:\Users\shmadhav\source\repos\ComputerVisionDemo\ComputerVisionDemo\obj\Debug\ComputerVisionDemo.pdb
